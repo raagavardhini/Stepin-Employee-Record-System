@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include <stdio.h>
+#include "main.h"
 void flush()
 {
     int c;
