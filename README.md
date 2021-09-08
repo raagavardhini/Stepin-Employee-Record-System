@@ -1,3 +1,14 @@
+# BADGES
+## CODE QUALITY 
+
+![Code Quality Score](https://www.code-inspector.com/project/28095/score/svg)
+
+## CODE GRADE
+
+![Code Grade](https://www.code-inspector.com/project/28095/status/svg)
+
+
+
 # Stepin-Employee-Record-System
 
 __Title : Employee Information Management System__
