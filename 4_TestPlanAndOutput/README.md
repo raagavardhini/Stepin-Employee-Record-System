@@ -1,4 +1,4 @@
-__TEST PLAN__
+## TEST PLAN
 
 | TEST ID  |  TEST CASE OBJECTIVE  | INPUT DATA        | EXPECTED OUTPUT  | ACTUAL OUTPUT  | STATUS |
 |----------|-----------------------|-------------------|------------------|----------------|--------|
