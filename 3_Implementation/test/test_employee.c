@@ -43,7 +43,7 @@ int main()
 
 /* Write all the test functions */ 
 void test_ADD_Record(void) {
-  TEST_ASSERT_EQUAL(raaga 22 35000, Add_Record(raaga, 15, 35000));
+  TEST_ASSERT_EQUAL(raaga 22 35000, Add_Record(raaga, 22, 35000));
   
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(12 raaga 35000, Add_Record(raaga, 12, 7500));
@@ -55,4 +55,3 @@ void test_Modify_Record(void) {
   /* Dummy fail*/
   TEST_ASSERT_EQUAL(raaga, Modify_Record(abc));
 }
-
