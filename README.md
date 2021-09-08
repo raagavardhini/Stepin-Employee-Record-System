@@ -10,6 +10,10 @@
 
 ![Code Grade](https://www.code-inspector.com/project/28095/status/svg)
 
+## Git Inspecter
+
+[![CI](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml/badge.svg)](https://github.com/raagavardhini/Stepin-Employee-Record-System/actions/workflows/blank.yml)
+
 
 
 ## Stepin-Employee-Record-System
