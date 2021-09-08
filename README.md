@@ -12,15 +12,15 @@
 
 
 
-# Stepin-Employee-Record-System
+## Stepin-Employee-Record-System
 
-__Title : Employee Information Management System__
+## Title : Employee Information Management System
 
 The mini-project “Employee Record System Project in C” is a console application using the C programming language. This project compiled in Code Blocks with the GCC compiler. In this console application, you can do basic Employee Record tasks like adding the employee info, view the added employee, search the employees.
 This application based on file handling in C, where I have used a file-related function like fopen, fread, fwrite, ..etc. Good thing is that “Employee Record System Project” is password-protected, so only authorized persons able to login to this application.
 Also to increase the readability, I have broken the application in different functions. Each function of the project extensively use in the file handing function, so it is also a great project to understand file handling in C.
 
-__Research__
+## Research
 
 __Objectives:__
 
@@ -38,7 +38,7 @@ __Cost and Features__
 •	Easily Add, Delete, Modify Records.
 •	Various Essential Queries.
 
-__4W's and 1'H__
+## 4W's and 1'H
 
 __Who:__
 
@@ -59,9 +59,11 @@ __Where:__
 •	This problem is surfaced in all the organisation in the world.
 
 __How:__
+
 •	This project takes in all the input values and yields out the management parameters.
 
-__FOLDER STRUCTURE__
+
+## FOLDER STRUCTURE 
 
 
 | FOLDER              |                  DESCRPTION             |    
@@ -74,7 +76,7 @@ __FOLDER STRUCTURE__
 
 
 
-__Challenges Faced and How Was It Overcome__
+## Challenges Faced and How Was It Overcome
 
 
 1.I have faced issues in file handling. so, I used strings.
@@ -82,9 +84,7 @@ __Challenges Faced and How Was It Overcome__
 2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
 
 
-
-__Learning Resources__
-
+## Learning Resources
 
 1.tutorials point
 
