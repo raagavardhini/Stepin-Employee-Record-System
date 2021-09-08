@@ -60,3 +60,35 @@ __Where:__
 
 __How:__
 •	This project takes in all the input values and yields out the management parameters.
+
+__FOLDER STRUCTURE__
+
+
+| FOLDER              |                  DESCRPTION             |    
+|---------------------|-----------------------------------------|
+| 1_Requirements      |Documents detailing requirements         |             
+| 2_Architecture      |Structural and Behavioural UML           |   
+| 3_Implementation    |All the code is written here             |
+| 4_TestPlanAndOutput |Documents with test plans and outputs    | 
+| 5_Report            |Generated Report                         | 
+
+__Challenges Faced and How Was It Overcome__
+
+1.I have faced issues in file handling. so, I used strings.
+
+2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+
+
+__Learning Resources__
+
+1.tutorials point
+
+2.geeksforgeeks
+
+3.fUTURE SKILLS
+
+
+
+
+
+
