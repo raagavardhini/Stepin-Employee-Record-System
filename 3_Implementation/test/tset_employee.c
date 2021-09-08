@@ -11,7 +11,6 @@
 #include "unity.h"
 #include <main.h>
 
-/* Modify these two lines according to the project */
 #include <main.h>
 #define PROJECT_NAME    "Employee-Record-System"
 
