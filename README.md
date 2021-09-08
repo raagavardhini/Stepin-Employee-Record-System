@@ -72,14 +72,19 @@ __FOLDER STRUCTURE__
 | 4_TestPlanAndOutput |Documents with test plans and outputs    | 
 | 5_Report            |Generated Report                         | 
 
+
+
 __Challenges Faced and How Was It Overcome__
+
 
 1.I have faced issues in file handling. so, I used strings.
 
 2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
 
 
+
 __Learning Resources__
+
 
 1.tutorials point
 
